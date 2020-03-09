@@ -15,22 +15,11 @@
 </html>
 
 
-<!DOCTYPE html>
-<html>
-<body>
-
-<p>This is a paragraph.</p>
-<p>This is a paragraph.</p>
-<p>This is a paragraph.</p>
-
-</body>
-</html>
 
 
 
-<!DOCTYPE html>
-<html>
-<head>
+
+
 <style>
 table {
   font-family: arial, sans-serif;
@@ -91,6 +80,8 @@ tr:nth-child(even) {
   </tr>
 </table>
 
+
 </body>
 </html>
+
 
